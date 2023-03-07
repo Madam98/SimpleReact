@@ -1,3 +1,7 @@
+# Description
+A simple shopping site displaying products, related information and supporting options such as sorting or filtering.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
